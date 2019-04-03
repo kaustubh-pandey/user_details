@@ -22,3 +22,5 @@ The search bar searches for a person based on first name and outputs the users w
 search query as a prefix
 
 The table displays the list of users and clicking on a row will show the details
+
+The columns can be individually sorted in descending order
